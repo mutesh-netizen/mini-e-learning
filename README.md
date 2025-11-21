@@ -57,20 +57,13 @@ To provide learners with a small platform to view courses, see details, and mark
 ---
 
 ## Author
-**Your Name**  
-GitHub: [https://github.com/your-username](https://github.com/your-username)  
-Email: your-email@example.com
+Newton  
+GitHub: [https://github.com/mutesh-netizen]  
+Email: newtonmutembei047@gmail.com.com
 ```
 
 ---
 
-### ✅ **Next Steps**
 
-1. Copy this text and create a `README.md` in your repository.
-2. Commit the file.
-3. Your repo is now fully ready for submission.
-4. Submit the **repository URL**.
-
----
 
 
